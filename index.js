@@ -38,6 +38,7 @@ export {
   Transform,
   changeset,
   ingest,
+  isChangeSet,
   isTuple,
   definition,
   transform,
